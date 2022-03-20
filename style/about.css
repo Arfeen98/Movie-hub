@@ -1,0 +1,20 @@
+#container>div{
+    width:600px;
+    height:400px;
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 15px;
+    margin: auto;
+    margin-top: 20px;
+    align-items: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  }
+  img{
+    height: 400px;
+  }
+  .card{
+    margin-top:-15px;
+  }
+  .card-body{
+    line-height:15px;
+  }

@@ -1,0 +1,21 @@
+#navbar{
+    display:flex;
+    margin: auto;
+    color: whitesmoke;
+    background-color: rgb(39, 37, 37);
+    width:85%;
+    height: 45px;
+    align-items: center;
+    border:none;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+#navbar>h2>a{
+    color: antiquewhite;
+    margin-left: 15px;
+}
+#search{
+    width: 450px;
+    height: 27px;
+    margin-right: 50px;
+}
