@@ -5,6 +5,8 @@
 # Description :
 In unit 3 we were given to a fetch a api  and build a movie app where user can search for any movie and additionally i have added the description page alse on clicking in any movie it will take to the description page where it will show the ratings, actors name, description of the movie.
 
+How to run the Project • Open pages directory. • Open index.html using live server.
+
 # TECH STACK
 *JavaScript
 *HTML
